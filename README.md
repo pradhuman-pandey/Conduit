@@ -1,6 +1,6 @@
 # 🅰️ Condiut
 
-This repository contains the **Angular Real-World Example App**, a fully functional and feature-rich application built using Angular, designed to demonstrate best practices in modern web application development. The app integrates key features like authentication, CRUD operations, routing, and pagination.
+This repository contains the **Angular Node js full stack Real-World Example App**, a fully functional and feature-rich application built using Angular, designed to demonstrate best practices in modern web application development. The app integrates key features like authentication, CRUD operations, routing, and pagination.
 
 ## 📚 Table of Contents
 - [About](#about)

@@ -1,0 +1,5 @@
+{
+    "exec": "babel-node",
+    "watch": [".babelrc", ".env", "src/**/*.js"]
+  }
+  
